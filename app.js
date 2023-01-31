@@ -1,3 +1,5 @@
+/** BOTON PARA SUBIR */
+
 const $btnUp = document.getElementById("up");
 
 window.addEventListener("scroll", (e)=>{
